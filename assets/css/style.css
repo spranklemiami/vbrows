@@ -1,6 +1,7 @@
 #nav-c {
     position: absolute;
     text-align: center;
+    margin-left: 65%;
 }
 #nav-c a {
     text-decoration: none;
@@ -12,7 +13,7 @@
     color: rgb(135, 135, 205);
 }
 #nav-c h1:hover {
-    border-left: 5px solid peachpuff;
+    border-right: 5px solid peachpuff;
     color: peachpuff;
     text-shadow: 0px 0px;
 }
@@ -30,3 +31,5 @@
     transform: rotate(270deg);
     text-shadow: 0px 0px;
   }
+
+ 
