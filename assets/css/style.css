@@ -12,14 +12,14 @@
     color: rgb(135, 135, 205);
 }
 #nav-c h1:hover {
-    border-right: 5px solid peachpuff;
+    border-left: 5px solid peachpuff;
     color: peachpuff;
     text-shadow: 2px 4px;
 }
 
 #schedule-icon {
     font-size: 8rem;
-    padding: 2%;
+    padding: 3%;
   }
 #schedule-icon:hover {
     transition: 0.25s color;
