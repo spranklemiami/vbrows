@@ -1,12 +1,7 @@
-#sched-div {
-    background-color: rgba(0,0,0,0);
-    position: absolute;
-}
 #nav-c {
-    margin-left: 75%;
     position: absolute;
     text-align: center;
-    
+    margin-left: 40%;
 }
 #nav-c a {
     text-decoration: none;
