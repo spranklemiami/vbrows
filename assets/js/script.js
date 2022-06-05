@@ -7,11 +7,11 @@ landingPageC.append(landingImg);
 
 
 
-let testDiv = document.createElement("div");
-testDiv.setAttribute("id", "test-div");
-// testDiv.style = "position: absolute; border: 1px solid red; width: 100px; height: 100px;";
-testDiv.addEventListener("mouseover", function() {
-    alert("who");
-});
-document.body.append(testDiv);
+// let testDiv = document.createElement("div");
+// testDiv.setAttribute("id", "test-div");
+// // testDiv.style = "position: absolute; border: 1px solid red; width: 100px; height: 100px;";
+// testDiv.addEventListener("mouseover", function() {
+//     alert("who");
+// });
+// document.body.append(testDiv);
 
