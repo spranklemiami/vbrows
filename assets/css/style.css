@@ -15,18 +15,18 @@
     border-left: 5px solid peachpuff;
     color: peachpuff;
     text-shadow: 0px 0px;
-
 }
 
 #schedule-icon {
+    color: peachpuff;
     font-size: 8rem;
+    text-shadow: 1px 2px black;
     padding: 3%;
   }
 #schedule-icon:hover {
-    transition: 0.25s color;
+    transition: 0.45s color;
     color: peachpuff;
-    text-shadow: 1px 2px black;
     transition: 0.5s transform;
-    transform: rotate(180deg);
-    
+    transform: rotate(270deg);
+    text-shadow: 0px 0px;
   }
