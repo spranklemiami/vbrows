@@ -8,7 +8,7 @@
     opacity: 0.7;
 }
 #nav-c h1 {
-    font-size: 6em;
+    font-size: 3em;
     text-shadow: 1px 2px black;
     color: rgb(135, 135, 205);
 }
@@ -20,7 +20,7 @@
 
 #schedule-icon {
     color: peachpuff;
-    font-size: 8rem;
+    font-size: 5rem;
     text-shadow: 1px 2px black;
     padding-top: 5%;
   }
@@ -28,7 +28,7 @@
     transition: 0.45s color;
     color: peachpuff;
     transition: 0.5s transform;
-    transform: rotate(650deg);
+    transform: rotate(275deg);
     text-shadow: 0px 0px;
   }
 
